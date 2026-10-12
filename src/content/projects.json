@@ -1,0 +1,245 @@
+[
+  {
+    "id": "prithvika",
+    "number": "01",
+    "title": "Prithvika",
+    "subtitle": "A Coal Land Reclamation, Research & Innovation Campus",
+    "category": "Thesis",
+    "year": "2025–26",
+    "location": "Durgapur OC Mines, Chandrapur, Maharashtra",
+    "program": "Research Campus · 29,115 sqm proposed built-up",
+    "scope": "Site strategy · Master planning · Architectural design · Sustainability systems",
+    "role": "Author — sole design lead",
+    "software": "AutoCAD, SketchUp, Enscape, Photoshop",
+    "heroPage": "/portfolio/thesis/page-01.jpg",
+    "thumb": "/portfolio/thesis/page-14.jpg",
+    "color": "#3A3A32",
+    "description": [
+      "Prithvika reimagines a scarred coal‑mined landscape in Chandrapur as a living laboratory — a research and innovation campus rooted in ecological repair.",
+      "The design bridges post‑mining land remediation and the institutional needs of a research campus through phytoremediation, mycoremediation and biochar strategies, layered with a low‑impact architectural language of fly‑ash brick, stone and timber.",
+      "Every drawing in this section is authored end‑to‑end — from literature and case studies (David Rubenstein Treehouse, Fraunhofer, CSIR‑NEERI) through site analysis, zoning, service calculations, and finally the detailed block plans and elevations."
+    ],
+    "pages": [
+      "/portfolio/thesis/page-01.jpg",
+      "/portfolio/thesis/page-02.jpg",
+      "/portfolio/thesis/page-03.jpg",
+      "/portfolio/thesis/page-04.jpg",
+      "/portfolio/thesis/page-05.jpg",
+      "/portfolio/thesis/page-06.jpg",
+      "/portfolio/thesis/page-07.jpg",
+      "/portfolio/thesis/page-08.jpg",
+      "/portfolio/thesis/page-09.jpg",
+      "/portfolio/thesis/page-10.jpg",
+      "/portfolio/thesis/page-11.jpg",
+      "/portfolio/thesis/page-12.jpg",
+      "/portfolio/thesis/page-13.jpg",
+      "/portfolio/thesis/page-14.jpg",
+      "/portfolio/thesis/page-15.jpg",
+      "/portfolio/thesis/page-16.jpg",
+      "/portfolio/thesis/page-17.jpg",
+      "/portfolio/thesis/page-18.jpg",
+      "/portfolio/thesis/page-19.jpg",
+      "/portfolio/thesis/page-20.jpg",
+      "/portfolio/thesis/page-21.jpg",
+      "/portfolio/thesis/page-22.jpg"
+    ]
+  },
+  {
+    "id": "crest-harbour",
+    "number": "02",
+    "title": "Crest Harbour",
+    "subtitle": "Vertical Housing Complex",
+    "category": "Housing",
+    "year": "6th Sem · 2024",
+    "location": "Hyderabad",
+    "program": "High‑density residential tower",
+    "scope": "Concept, unit planning, envelope studies",
+    "role": "Individual academic studio",
+    "software": "AutoCAD, SketchUp, Lumion, Photoshop",
+    "heroPage": "/portfolio/internship/page-06.jpg",
+    "thumb": "/portfolio/internship/page-07.jpg",
+    "color": "#4A4A42",
+    "description": [
+      "A vertical housing complex investigating density, community and daylight along Hyderabad's rapidly growing residential edge.",
+      "Modular unit plans stack around shared skygardens, breaking the typical monolithic tower into a family of pavilions."
+    ],
+    "pages": [
+      "/portfolio/internship/page-06.jpg",
+      "/portfolio/internship/page-07.jpg",
+      "/portfolio/internship/page-08.jpg",
+      "/portfolio/internship/page-09.jpg"
+    ]
+  },
+  {
+    "id": "monjee-university",
+    "number": "03",
+    "title": "Monjee University of Management",
+    "subtitle": "Institutional Campus Planning",
+    "category": "Institutional",
+    "year": "7th Sem · 2024",
+    "location": "Bhubaneswar",
+    "program": "Multi‑disciplinary university campus",
+    "scope": "Master planning · Block design · Landscape framework",
+    "role": "Individual academic studio",
+    "software": "AutoCAD, SketchUp, Enscape, Photoshop",
+    "heroPage": "/portfolio/internship/page-10.jpg",
+    "thumb": "/portfolio/internship/page-11.jpg",
+    "color": "#3F433C",
+    "description": [
+      "A campus master plan for a management university that weaves academic, administrative and residential programmes through a spine of shaded courtyards.",
+      "The plan responds to Bhubaneswar's climate with deep overhangs, north‑lit studios and continuous verandahs."
+    ],
+    "pages": [
+      "/portfolio/internship/page-10.jpg",
+      "/portfolio/internship/page-11.jpg",
+      "/portfolio/internship/page-12.jpg",
+      "/portfolio/internship/page-13.jpg"
+    ]
+  },
+  {
+    "id": "unit-one-market",
+    "number": "04",
+    "title": "Unit One Market",
+    "subtitle": "Urban Market Redevelopment",
+    "category": "Urban / Commercial",
+    "year": "8th Sem · 2025",
+    "location": "Bhubaneswar",
+    "program": "Public market and community plaza",
+    "scope": "Urban design · Programming · Architecture",
+    "role": "Individual academic studio",
+    "software": "AutoCAD, SketchUp, Lumion, Photoshop",
+    "heroPage": "/portfolio/internship/page-14.jpg",
+    "thumb": "/portfolio/internship/page-15.jpg",
+    "color": "#4A413A",
+    "description": [
+      "A redevelopment of a Bhubaneswar neighbourhood market, layering informal vending, cold storage and civic plaza under one continuous shading canopy.",
+      "The design negotiates between the messy vibrancy of Indian street trade and the need for hygiene, circulation and shelter."
+    ],
+    "pages": [
+      "/portfolio/internship/page-14.jpg",
+      "/portfolio/internship/page-15.jpg",
+      "/portfolio/internship/page-16.jpg",
+      "/portfolio/internship/page-17.jpg"
+    ]
+  },
+  {
+    "id": "evolve-io",
+    "number": "05",
+    "title": "Evolve.io",
+    "subtitle": "Architectural Office Interior",
+    "category": "Interior",
+    "year": "7th Sem · 2024",
+    "location": "Bhubaneswar",
+    "program": "Studio office fit‑out",
+    "scope": "Interior architecture · Furniture · Materials",
+    "role": "Individual academic studio",
+    "software": "SketchUp, D5 Render, Photoshop",
+    "heroPage": "/portfolio/internship/page-18.jpg",
+    "thumb": "/portfolio/internship/page-19.jpg",
+    "color": "#3D3A33",
+    "description": [
+      "An interior study for a small architectural firm's studio — bringing together open collaboration areas, a materials library and a quiet drafting mezzanine.",
+      "The palette is intentionally restrained: raw plaster, oiled ply and warm task lighting."
+    ],
+    "pages": [
+      "/portfolio/internship/page-18.jpg",
+      "/portfolio/internship/page-19.jpg",
+      "/portfolio/internship/page-20.jpg",
+      "/portfolio/internship/page-21.jpg"
+    ]
+  },
+  {
+    "id": "nirmaan",
+    "number": "06",
+    "title": "Nirmaan",
+    "subtitle": "Working Drawings — Apartments",
+    "category": "Technical",
+    "year": "3rd & 6th Sem",
+    "location": "Studio Exercise",
+    "program": "Residential apartments",
+    "scope": "Working drawings · Details · Schedules",
+    "role": "Individual",
+    "software": "AutoCAD",
+    "heroPage": "/portfolio/internship/page-22.jpg",
+    "thumb": "/portfolio/internship/page-23.jpg",
+    "color": "#3A3A38",
+    "description": [
+      "A set of construction drawings for two apartment typologies — exploring how conventional Indian residential detailing translates into precise CAD language.",
+      "Included here as evidence of comfort with door schedules, wet‑area details, plinth sections and tile layouts."
+    ],
+    "pages": [
+      "/portfolio/internship/page-22.jpg",
+      "/portfolio/internship/page-23.jpg"
+    ]
+  },
+  {
+    "id": "aalo-chhaya",
+    "number": "07",
+    "title": "Aalo–Chhaya",
+    "subtitle": "Sustainable Pavilion using Waste",
+    "category": "Competition",
+    "year": "ANDC 2023",
+    "location": "India",
+    "program": "Temporary pavilion",
+    "scope": "Concept · Structure · Assembly",
+    "role": "Team competition entry · Top 60",
+    "software": "SketchUp, Photoshop",
+    "heroPage": "/portfolio/internship/page-25.jpg",
+    "thumb": "/portfolio/internship/page-25.jpg",
+    "color": "#453F35",
+    "description": [
+      "A pavilion concept using construction waste and reclaimed textiles, exploring the interplay of light and shade.",
+      "Recognised in the Top 60 of the ANDC 2023 competition."
+    ],
+    "pages": [
+      "/portfolio/internship/page-24.jpg",
+      "/portfolio/internship/page-25.jpg"
+    ]
+  },
+  {
+    "id": "vds-2023",
+    "number": "08",
+    "title": "VDS 2023",
+    "subtitle": "Futuristic Floating Habitat",
+    "category": "Competition",
+    "year": "2023",
+    "location": "Speculative",
+    "program": "Floating research habitat",
+    "scope": "Speculative design · Diagramming",
+    "role": "Competition entry",
+    "software": "SketchUp, Photoshop",
+    "heroPage": "/portfolio/internship/page-27.jpg",
+    "thumb": "/portfolio/internship/page-27.jpg",
+    "color": "#3A3D3E",
+    "description": [
+      "A speculative floating habitat designed for the Vertical Design Studio 2023 brief, exploring self‑sufficient life on rising seas."
+    ],
+    "pages": [
+      "/portfolio/internship/page-26.jpg",
+      "/portfolio/internship/page-27.jpg"
+    ]
+  },
+  {
+    "id": "sketchbook",
+    "number": "09",
+    "title": "Sketchbook",
+    "subtitle": "Basic Design, Illustrations & Graphic Art",
+    "category": "Sketches",
+    "year": "Ongoing",
+    "location": "—",
+    "program": "Personal work",
+    "scope": "Hand drawing · Graphic exploration",
+    "role": "Personal",
+    "software": "Pencil, ink, Photoshop",
+    "heroPage": "/portfolio/internship/page-28.jpg",
+    "thumb": "/portfolio/internship/page-29.jpg",
+    "color": "#413E36",
+    "description": [
+      "A curated selection of sketches, illustrations and graphic explorations that continue to inform the architectural work."
+    ],
+    "pages": [
+      "/portfolio/internship/page-28.jpg",
+      "/portfolio/internship/page-29.jpg"
+    ]
+  }
+]

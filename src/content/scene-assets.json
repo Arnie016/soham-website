@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Low Poly Forest Tree Pack",
+    "creator": "99.Miles",
+    "source": "https://sketchfab.com/3d-models/5ff5a51e74324845a4e4905f182dfb2b",
+    "creatorUrl": "https://sketchfab.com/99.Miles",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "localModel": "/models/prithvika-forest.glb",
+    "modifications": "Selected meshes, reduced texture resolution, separate local textures, scene scale and instancing.",
+    "role": "Illustrative landscape context, not a planting or furniture schedule."
+  },
+  {
+    "title": "Wooden Park Bench",
+    "creator": "TheMadraver",
+    "source": "https://sketchfab.com/3d-models/e53ad46c604c44e59a98bad27041cb19",
+    "creatorUrl": "https://sketchfab.com/TheMadraver",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "localModel": "/models/prithvika-bench.glb",
+    "modifications": "Selected meshes, reduced texture resolution, separate local textures, scene scale and instancing.",
+    "role": "Illustrative landscape context, not a planting or furniture schedule."
+  }
+]

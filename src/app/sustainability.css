@@ -1,0 +1,301 @@
+.sustainability-section {
+  padding: 115px 5vw 65px;
+  background: #eaece5;
+  color: #283c33;
+  display: grid;
+  grid-template-columns: 0.85fr 1.15fr;
+  gap: 55px;
+  scroll-margin-top: 24px;
+}
+.sustainability-section .spatial-kicker {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: #63735f;
+}
+.sustainability-heading h2 {
+  font-size: clamp(40px, 4.8vw, 76px);
+  line-height: 1.04;
+  margin: 27px 0;
+  letter-spacing: -0.055em;
+}
+.sustainability-heading > p {
+  color: #596759;
+  font-size: 14px;
+  max-width: 435px;
+  line-height: 1.9;
+}
+.sustainability-play {
+  border: 1px solid #c4d2b770;
+  padding: 15px 18px;
+  min-height: 54px;
+  background: #f1f1e5;
+  color: #243a34;
+  display: flex;
+  gap: 13px;
+  align-items: center;
+  margin-top: 27px;
+  font: 12px var(--sans);
+}
+.sustainability-play span {
+  border-left: 1px solid #243a3433;
+  padding-left: 15px;
+  font-size: 10px;
+}
+.sustainability-play:hover {
+  background: #dfe7cf;
+}
+.sustainability-caption {
+  display: block;
+  color: #68765f;
+  font-size: 10px;
+  margin-top: 14px;
+  max-width: 320px;
+}
+.sustainability-preview {
+  display: block;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  background: transparent;
+  position: relative;
+  align-self: center;
+  text-align: left;
+  overflow: hidden;
+  aspect-ratio: 1.24;
+}
+.sustainability-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 72%;
+  opacity: 0.87;
+  transition: transform 700ms ease;
+}
+.sustainability-preview:hover img {
+  transform: scale(1.035);
+}
+.sustainability-preview-play {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  color: #fff;
+  font: 14px var(--sans);
+  text-shadow: 0 1px 5px #000;
+}
+.sustainability-preview-play svg {
+  border: 1px solid #ffffff88;
+  padding: 15px;
+  box-sizing: content-box;
+  background: #243a34aa;
+  border-radius: 50%;
+}
+.sustainability-preview-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 15px;
+  background: #f4f4ecee;
+  font: 10px var(--sans);
+  color: #42553f;
+}
+.sustainability-principles {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  border-top: 1px solid #b0c59c44;
+  margin-top: 22px;
+  padding-top: 38px;
+}
+.sustainability-principles article > span {
+  font-size: 9px;
+  letter-spacing: 0.14em;
+  color: #647657;
+}
+.sustainability-principles h3 {
+  font-size: 19px;
+  margin: 14px 0;
+  font-weight: 500;
+}
+.sustainability-principles p {
+  font-size: 12px;
+  line-height: 1.9;
+  color: #596750;
+}
+.sustainability-principles a,
+.sustainability-footnote a {
+  display: inline-flex;
+  gap: 10px;
+  align-items: center;
+  font-size: 11px;
+  min-height: 44px;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.sustainability-footnote {
+  grid-column: 1/-1;
+  border-top: 1px solid #b0c59c44;
+  padding-top: 24px;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  align-items: center;
+}
+.sustainability-footnote p {
+  color: #67765c;
+  font-size: 11px;
+  max-width: 620px;
+}
+.sustainability-section :is(button, a, summary):focus-visible {
+  outline: 2px solid #7e5b38;
+  outline-offset: 5px;
+}
+.sustainability-dialog {
+  width: min(1120px, 94vw);
+  max-height: 92svh;
+  padding: 0;
+  border: 1px solid #69775e;
+  background: #f2f2eb;
+  color: #243a34;
+  overflow: auto;
+}
+.sustainability-dialog::backdrop {
+  background: #2b3529a6;
+  backdrop-filter: blur(7px);
+}
+.sustainability-dialog header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  gap: 15px;
+}
+.sustainability-dialog header span {
+  font-size: 8px;
+  color: #63715a;
+  letter-spacing: 0.16em;
+}
+.sustainability-dialog h2 {
+  font: 17px var(--sans);
+  margin: 6px 0 0;
+}
+.sustainability-dialog header button {
+  background: transparent;
+  color: inherit;
+  border: 1px solid #92a88366;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+}
+.sustainability-dialog video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16/9;
+  background: #eeeee8;
+}
+.sustainability-dialog details {
+  margin: 20px 24px;
+  font-size: 12px;
+  color: #52654a;
+}
+.sustainability-dialog details summary {
+  cursor: pointer;
+  min-height: 44px;
+  line-height: 44px;
+}
+.sustainability-dialog details p {
+  max-width: 800px;
+  line-height: 1.8;
+}
+.sustainability-dialog footer {
+  border-top: 1px solid #a8b7a333;
+  padding: 16px 24px;
+  color: #657b59;
+  font-size: 10px;
+}
+.sustainability-dialog a {
+  text-decoration: underline;
+}
+.asset-credits {
+  padding: 80px 6vw 100px;
+  max-width: 1000px;
+}
+.asset-credits h1 {
+  font-size: clamp(40px, 6vw, 70px);
+}
+.asset-credits h2 {
+  margin: 40px 0 15px;
+  font-size: 27px;
+}
+.asset-credits p,
+.asset-credits li {
+  line-height: 1.85;
+  max-width: 800px;
+}
+.asset-credits li {
+  margin: 16px 0;
+}
+.asset-credits a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+@media (max-width: 800px) {
+  .sustainability-section {
+    grid-template-columns: 1fr;
+    padding: 75px 6vw 45px;
+    gap: 30px;
+  }
+  .sustainability-heading h2 {
+    font-size: 45px;
+  }
+  .sustainability-heading > p {
+    font-size: 13px;
+  }
+  .sustainability-preview {
+    aspect-ratio: 1.3;
+  }
+  .sustainability-principles {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .sustainability-principles h3 {
+    font-size: 21px;
+  }
+  .sustainability-principles p {
+    font-size: 13px;
+  }
+  .sustainability-footnote {
+    display: block;
+  }
+  .sustainability-dialog header {
+    padding: 14px;
+  }
+  .sustainability-dialog h2 {
+    font-size: 13px;
+  }
+  .sustainability-dialog details {
+    margin: 15px;
+  }
+  .sustainability-dialog footer {
+    padding: 15px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .sustainability-preview img {
+    transition: none;
+  }
+  .sustainability-preview:hover img {
+    transform: none;
+  }
+}
+
+html:has(.sustainability-dialog[open]) {
+  overflow: hidden;
+}
